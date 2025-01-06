@@ -45,7 +45,7 @@
           <div class="card mt-3" style="width: 18rem">
             <img src="assets/img/boxing.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
-              <h5 class="card-title">PMR</h5>
+              <h5 class="card-title">Boxing</h5>
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
           <div class="card mt-3" style="width: 18rem">
             <img src="assets/img/it.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
-              <h5 class="card-title">Seni</h5>
+              <h5 class="card-title">IT Club</h5>
             </div>
           </div>
         </div>

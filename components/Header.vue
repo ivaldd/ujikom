@@ -2,9 +2,9 @@
   <nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
       <!-- Logo dan Teks -->
-      <div class="d-flex align-items-center">
+      <div class="d-flex align-items-center" >
         <img src="assets/img/logo.png" width="80" alt="Logo" />
-        <a class="navbar-brand ms-2" href="#">SMKN 4 TASIKMALAYA</a>
+        <a class="navbar-brand ms-2" href="#" >SMKN 4 TASIKMALAYA</a>
       </div>
 
       <!-- Tombol untuk Mobile -->
@@ -44,6 +44,13 @@
             <nuxt-link to="/eskul">
               <a class="nav-link active" aria-current="page" href="#"
                 >Ekstrakurikuler</a
+              >
+            </nuxt-link>
+          </li>
+          <li class="nav-item fs-5">
+            <nuxt-link to="/biodata">
+              <a class="nav-link active" aria-current="page" href="#"
+                >Biodata</a
               >
             </nuxt-link>
           </li>
